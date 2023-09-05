@@ -9,9 +9,9 @@ Namun, bagaimana jika Anda ingin mendapatkan data pribadi dari KTP tanpa harus m
 
 Jawabannya adalah ya, ada. Anda bisa menggunakan API Kartu Tanda Penduduk Indonesia yang disediakan oleh [Indonesian Identification Card (KTP)](https://rapidapi.com/ptwebsolution/api/indonesian-identification-card-ktp). API ini mampu mengenali dan mengembalikan data pribadi dari NIK (Nomor Induk Kependudukan).
 
-API Kartu Tanda Penduduk Indonesia adalah sebuah layanan web yang menggunakan teknologi Optical Character Recognition (OCR) untuk membaca teks dari gambar KTP. OCR adalah proses konversi gambar teks menjadi teks yang dapat diproses oleh komputer.
+API Kartu Tanda Penduduk Indonesia adalah sebuah layanan web yang menggunakan teknologi handal untuk membaca teks dari NIK KTP.
 
-Dengan menggunakan API ini, Anda bisa mendapatkan data pribadi seperti nama, tempat dan tanggal lahir, alamat, jenis kelamin, umur, dan lain-lain dari gambar KTP dengan mudah dan cepat. Anda juga bisa memverifikasi keabsahan KTP dengan membandingkan data yang dikembalikan oleh API dengan data yang tertera di KTP.
+Dengan menggunakan API ini, Anda bisa mendapatkan data pribadi seperti nama, tempat dan tanggal lahir, alamat, jenis kelamin, umur, dan lain-lain dari NIK KTP dengan mudah dan cepat. Anda juga bisa memverifikasi keabsahan KTP dengan membandingkan data yang dikembalikan oleh API dengan data yang tertera di KTP.
 
 Berikut adalah langkah-langkah untuk menggunakan API Kartu Tanda Penduduk Indonesia:
 
